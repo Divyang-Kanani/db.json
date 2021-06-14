@@ -1,0 +1,24 @@
+{
+  "ShortsVideos":
+   [
+  
+    {
+        "Name": "God Status",
+        "VideoPath": "https://firebasestorage.googleapis.com/v0/b/myapplication-d2d4c.appspot.com/o/JALWA%2FShortVideos%2FGod_Status_%E0%A5%A4WhatsApp_Status_video%E0%A5%A4full_screen_status%E0%A5%A4_status_download%2C_%23shorts(1080p).mp4?alt=media&token=586cecf3-1044-472d-898d-3a50b654e6be"
+    },
+    
+    {
+        "Name": "God Status",
+        "VideoPath": "https://firebasestorage.googleapis.com/v0/b/myapplication-d2d4c.appspot.com/o/JALWA%2FShortVideos%2Flord_shiva_whatsapp_status__god_mahadev_whatsapp_status__shiva_latest_status__bholenath_status_(144p).mp4?alt=media&token=2b466ba7-9f7f-487e-8ab1-7db7f8d83e67" 
+        
+     },
+     
+     {
+        "Name": "Funny TMKOC",
+        "VideoPath": "https://firebasestorage.googleapis.com/v0/b/myapplication-d2d4c.appspot.com/o/JALWA%2FShortVideos%2Ftmkcoc.mp4?alt=media&token=616f180f-0406-4959-a22f-8ca7565d8347"
+     }
+    
+   ]
+
+
+}
